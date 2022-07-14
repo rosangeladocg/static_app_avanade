@@ -2,9 +2,20 @@
   text-align: center;
 }
 
+.logo-content{
+  background-color: #fff;
+  border-radius: 22px;
+  padding: 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.brands-api{
+  display: flex;
+  margin-bottom: 50px;
 }
 
 .App-header {
